@@ -1,0 +1,4 @@
+name: AuctionShop
+version: '${project.version}'
+main: auction.bunnynetwork.Bunnynetwork
+api-version: 1.19
