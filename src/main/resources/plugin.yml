@@ -1,4 +1,0 @@
-name: Action Project
-version: '${project.version}'
-main: action.bunnynetwork.Main
-api-version: 1.19
