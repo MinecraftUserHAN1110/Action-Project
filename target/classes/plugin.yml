@@ -1,0 +1,4 @@
+name: AuctionShop
+version: '1.0-SNAPSHOT'
+main: auction.bunnynetwork.Bunnynetwork
+api-version: 1.19
